@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/yrss.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <ttl>10</ttl>
+    <copyright>Copyright (c) 2017 Yahoo!, Inc. All rights reserved.</copyright>
+    <language>en-us</language>
+    <image>
+      <width>126</width>
+      <height>15</height>
+      <link>http://sports.yahoo.com</link>
+      <title>Yahoo Sports</title>
+      <url>http://l.yimg.com/rz/d/yahoo_sports_en-US_s_f_p_182x21_sports.gif</url>
+    </image>
+    <title>Yahoo Sports - World Soccer News</title>
+    <link>http://sports.yahoo.com/sow</link>
+    <description>Latest news and information about the World Soccer.</description>
+    <item>
+      <title>Lennon's hat trick leads US over Haiti in U20 qualifying (The Associated Press)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=12us6k388/*http%3A//sports.yahoo.com/news/lennons-hat-trick-leads-us-over-haiti-u20-034015574--sow.html</link>
+      <description>Brooks Lennon, loaned this month from Liverpool to Major League Soccer's Real Salt Lake, scored three goals to lead the United States over Haiti 4-1 Tuesday at San Jose, Costa Rica, and put the Americans in position to advance in qualifying for the Under-20 World Cup.</description>
+      <pubDate>Tue, 21 Feb 2017 19:40:15 PST</pubDate>
+      <category>FBWCUP</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,b952f333-4f02-35ac-84f6-561350e59f66-l:1</guid>
+    </item>
+    <item>
+      <title>Soccer-Western Sydney ban 14 fans after offensive banner display (Reuters)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=137ftj0mn/*http%3A//sports.yahoo.com/news/soccer-western-sydney-ban-14-fans-offensive-banner-031602847--sow.html</link>
+      <description>SYDNEY, Feb 22 (Reuters) - Western Sydney Wanderers have banned 14 fans for 18 months after a section of their 'Red and Black Bloc' supporters group displayed an "offensive" banner during their A-League clash with Sydney FC on Saturday. Football Federation Australia (FFA) have issued a 'show cause' notice to the club in response to the banner, which they described as "offensive to any reasonable member of the public", and the club may face severe penalties from the governing body. ...</description>
+      <pubDate>Tue, 21 Feb 2017 19:16:02 PST</pubDate>
+      <category>SOW</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,918768fb-fdee-3edc-ac3d-1f57632a65ce-l:1</guid>
+    </item>
+    <item>
+      <title>Soccer-Colombian championship liga aguila i results and standings (Reuters)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=13g1cmn73/*http%3A//sports.yahoo.com/news/soccer-colombian-championship-liga-aguila-results-standings-005552465--sow.html</link>
+      <description>Feb 22 (Gracenote) - Results and standings from the Colombian championship Liga Aguila I matches on Wednesday Tuesday, February 21Cortulua 2 Independiente Medellin 2 Pasto 5 Patriotas Boyaca 0 Tigres 0 Deportivo Cali 0 Standings P W D L F A Pts 1 Pasto 5 3 2 0 11 1 11 2 Deportivo Cali 5 3 1 1 8 2 10 3 Independiente Medellin 5 3 1 1 8 6 10 4 Patriotas Boyaca 5 2 2 1 6 6 8 5 America 4 2 1 1 7 3 7 6 Atletico Nacional 3 2 1 0 4 0 7 7 Alianza Petrolera 4 2 1 1 5 4 7 8 La Equidad 4 2 1 1 4 4 7 -------------------------9 Santa Fe 2 2 0 0 2 0 6 10 Tigres 5 1 2 2 1 4 5 11 Millonarios 3 1 1 1 4 2 4 12  ...</description>
+      <pubDate>Tue, 21 Feb 2017 19:06:52 PST</pubDate>
+      <category>SOW</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,875d2928-fe20-32bb-b089-b241f911634d-l:1</guid>
+    </item>
+    <item>
+      <title>Soccer-Attack is the best form of defence for City boss Guardiola (Reuters)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=138u21eog/*http%3A//sports.yahoo.com/news/soccer-attack-best-form-defence-city-boss-guardiola-233955914--sow.html</link>
+      <description>Facing Europe's most potent strikeforce would cause some managers to man the barricades but for Manchester City boss Pep Guardiola there was only one option in Tuesday's Champions League clash with Monaco - "attack, attack, attack".  Goals from Raheem Sterling and a double from Sergio Aguero kept City in the encounter, before late efforts from John Stones and Leroy Sane saw them pull clear ahead of the second leg in the principality on March 15.  Attack, attack, attack," Guardiola told BT Sport.</description>
+      <pubDate>Tue, 21 Feb 2017 15:39:55 PST</pubDate>
+      <category>SOW</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,358445c0-0d62-3229-9136-d69bf87559f7-l:1</guid>
+    </item>
+    <item>
+      <title>Soccer-Huddersfield strike late to beat Reading (Reuters)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=12s6cvh3n/*http%3A//sports.yahoo.com/news/soccer-huddersfield-strike-beat-reading-225138021--sow.html</link>
+      <description><![CDATA[Feb 21 (Reuters) - Huddersfield Town kept up the pressure on the top two teams in the Championship with a 1-0 win over fellow promotion hopefuls Reading thanks to a late goal by Philip Billing on Tuesday. Billing struck from close range with eight minutes left to take third-placed Huddersfield back within four points of Brighton & Hove Albion, who trail leaders Newcastle United by a point. Newcastle beat Aston Villa 2-0 on Monday to reach 69 points while Brighton won 2-0 at Barnsley on Saturday. Huddersfield's win gives them 64 points, ahead of fourth-placed Reading on 60. ...]]></description>
+      <pubDate>Tue, 21 Feb 2017 14:51:38 PST</pubDate>
+      <category>SOW</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,f4bba02f-840d-3d6e-a067-1464062126c8-l:1</guid>
+    </item>
+    <item>
+      <title>Soccer-Rooney misses St Etienne trip amid talk over his future (Reuters)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/sow/SIG=133c9i7tp/*http%3A//sports.yahoo.com/news/soccer-rooney-misses-st-etienne-trip-amid-talk-224858659--sow.html</link>
+      <description>(Repeats adding TV to slug, no change to text)  PARIS, Feb 21 (Reuters) - Manchester United's Wayne Rooney did not travel with the squad for Wednesday's Europa League last-32, second leg at St Etienne despite training on the eve of the match, amid continuing media speculation about his future at the club.  British media have linked the 31-year-old with a move to the Chinese Super League where the transfer window remains open until Feb. 28.  Asked about Rooney's future, United manager Jose Mourinho told a news conference on Tuesday that he did not want the striker to leave but said the decision was in the player's hands.</description>
+      <pubDate>Tue, 21 Feb 2017 14:48:58 PST</pubDate>
+      <category>SOW</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,e516a96a-4fa1-3754-8b40-6e37695bb62d-l:1</guid>
+    </item>
+    <lastBuildDate>Tue, 21 Feb 2017 19:40:15 PST</lastBuildDate>
+  </channel>
+</rss>
+
+<!-- fe3.os.sports.bf1.yahoo.com Wed Feb 22 05:08:39 UTC 2017 -->

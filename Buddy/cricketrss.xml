@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Cricinfo Live Scores</title>
+<ttl>2</ttl>
+<link>http://www.cricinfo.com</link>
+<description>Latest scores from Cricinfo</description>
+<copyright>(c)Cricinfo</copyright>
+<language>en-gb</language>
+<pubDate>Tue, 11 Apr 2017 06:07:03 +0000</pubDate>
+<item>
+<title>Biratnagar Kings 134/6  v Dhangadhi Team Chauraha 54/5 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/1089702.html?CMP=OTC-RSS </link>
+<description>Biratnagar Kings 134/6  v Dhangadhi Team Chauraha 54/5 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1089702.html</guid> </item>
+<item>
+<title>Kathmandu Goldens v Kanchanpur Iconic</title>
+<link>http://www.cricinfo.com/ci/engine/match/1089703.html?CMP=OTC-RSS </link>
+<description>Kathmandu Goldens v Kanchanpur Iconic</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1089703.html</guid> </item>
+<item>
+<title>Nigeria v Zambia</title>
+<link>http://www.cricinfo.com/ci/engine/match/1089145.html?CMP=OTC-RSS </link>
+<description>Nigeria v Zambia</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1089145.html</guid> </item>
+<item>
+<title>Botswana v Sierra Leone</title>
+<link>http://www.cricinfo.com/ci/engine/match/1089146.html?CMP=OTC-RSS </link>
+<description>Botswana v Sierra Leone</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1089146.html</guid> </item>
+<item>
+<title>Ghana v Tanzania</title>
+<link>http://www.cricinfo.com/ci/engine/match/1089147.html?CMP=OTC-RSS </link>
+<description>Ghana v Tanzania</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1089147.html</guid> </item>
+<item>
+<title>West Indies v Pakistan</title>
+<link>http://www.cricinfo.com/ci/engine/match/1077951.html?CMP=OTC-RSS </link>
+<description>West Indies v Pakistan</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1077951.html</guid> </item>
+<item>
+<title>Rising Pune Supergiant v Delhi Daredevils</title>
+<link>http://www.cricinfo.com/ci/engine/match/1082599.html?CMP=OTC-RSS </link>
+<description>Rising Pune Supergiant v Delhi Daredevils</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/1082599.html</guid> </item>
+</channel>
+</rss>

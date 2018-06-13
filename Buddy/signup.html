@@ -1,0 +1,247 @@
+<!DICTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="buddy-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="buddy-16x16.png" sizes="16x16" />
+
+<title> Signup - Buddy </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/custom.css">
+<script src="js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+	function signup()
+	{
+		window.open('signup.html','_self');
+	}
+	
+</script>
+</style>
+</head>
+<body background="swanblur2.jpg">
+    <!-- Header-->
+   <!--header -->
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only"> Toggle Navigation </span>
+					<span class="icon-bar" style="color:white"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="home.php"> NearbyBuddy </a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+          	<li> <a href="Login.php"> Login </a> </li>
+					<li class="active"><a href="signup.html"> Signup  </a> </li>
+				
+					<li> <a href="#contact" data-toggle="modal"> Contact </a> </li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"> About <b class="caret"></b> </a>
+						<ul class="dropdown-menu">
+							<li class="dropdown-header"> Admin & Dashboard </li> 
+							<li> <a href="#"> Lakkanna </a> </li>
+							<li> <a href="#"> Hitesh </a> </li>
+							<li class="divider"></li>
+							<li class="dropdown-header"> Designer </li> 
+							<li> <a href="#"> Dilip </a> </li>
+							<li> <a href="#"> Varun </a> </li>
+						</ul>
+					</li>
+
+
+				</ul>
+			</div>
+		</div>
+	</div><!-- Middle page -->
+<div class="container-fluid" id="content">
+        <div class="col-sm-2" style="background-color:transparent">
+		</div>
+		<!-- Login credintials -->
+		<div class="col-sm-8 well" style="background-color:transparent">
+			<center>
+                <h2><strong style="color:lawngreen">Welcome Please fill details to Create account</strong> </h2>
+			</center>
+                <form name="signup" action="verifyaccount.php" method="POST" enctype="multipart/form-data">
+                <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label style="color:white"> First Name: </label>
+                        </div> 
+                        <div class="col-sm-2">
+                              <input type="text" name="fname" placeholder="First Name" required>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                  <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label style="color:white"> Last Name: </label>
+                        </div> 
+                        <div class="col-sm-2">
+                               <input type="text" name="lname" placeholder="Last Name" required>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                  <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="email"style="color:white"> Email : </label>
+                        </div> 
+                        <div class="col-sm-2">
+                               <input type="email" name="email" id="email" placeholder="example@gmail.com" required/>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                   <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label style="color:white"> Picture: </label>
+                        </div> 
+                        <div class="col-sm-2">
+                               <input type="file" name="image" required/>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                 <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="phone"style="color:white"> Phone : </label>
+                        </div> 
+                        <div class="col-sm-2">
+                              <input type="text" name="phone" id="phone" placeholder="Phone Number" required />
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                  <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="sex"style="color:white"> Sex :</label>
+                        </div> 
+                        <div class="col-sm-2">
+                             <select name="sex"> <option value="Male"> Male </option> <option value="Female"> Female </option> </select>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div>
+                <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="sex"style="color:white"> Date of Birth :</label>
+                        </div> 
+                        <div class="col-sm-2">
+                             <input type="date"  placeholder="Date of birth: YYYY-MM-DD" name="dob" required />
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div> 
+                   <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="sex"style="color:white"> Privacy :</label>
+                        </div> 
+                        <div class="col-sm-2">
+                              <select name="privacy"> <option value="Public"> Public </option> <option value="Private"> Private </option> </select>
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div> 
+                  <div class="col-sm-12">
+                        <div class="col-sm-3">
+                        </div>
+                        <div class="col-sm-2">
+                            <label for="password"style="color:white"> New Password:</label>
+                        </div> 
+                        <div class="col-sm-2">
+                              <input type="password"  placeholder="New Password" name="password" required/>   
+                        </div>
+                          <div class="col-sm-5">
+                        </div>
+                 </div> 
+                     
+                    
+                      <center>
+                          
+                        <input class="btn btn-warning" type="submit" name="signup" onSubmit="confirm(' Are you sure to submit')" value="Verify Account">
+                      </center>
+                </div>
+                </form>
+			
+		</div>
+</div>		
+
+	 <!-- 
+    Modal-dialog box for Contact
+-->
+<div class="modal fade" id="contact" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<form class="form-horizontal" role="form" method="post" action="contactmessage.php">
+					<div class="modal-header">
+						<h4 style="color:red"> Contact </h4>
+					</div>
+					<div class="modal-body">
+						<div class="form-group">
+							<p class="alert" style="color:green"> We will shortly response to your query. </p>
+							<label for="contact_name" class="col-sm-2 control-panel">	Name: </label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="contact_name" name="contact_name" placeholder="Fullname"> </input>  
+							</div>
+						</div>
+
+						<div class="form-group">
+							
+							<label for="contact_email" class="col-sm-2 control-panel">	Email: </label>
+							<div class="col-sm-10">
+								<input type="email" class="form-control" id="contact_email" name="contact_email" placeholder="example@email.com"> </input>  
+							</div>
+						</div>
+						<div class="form-group">
+							
+							<label for="contact_subject" class="col-sm-2 control-panel">	Subject: </label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="contact_subject" name="contact_subject" placeholder="whats your query?"> </input>  
+							</div>
+						</div>
+
+						<div class="form-group">
+							
+							<label for="contact_message" class="col-sm-2 control-panel">	Message: </label>
+							<div class="col-sm-10">
+								<textarea class="form-control" id="contact_message" name="contact_message" rows="4" > </textarea>  
+							</div>
+						</div>
+						</div>
+					</div>
+				<div class="modal-footer">
+				<a class="btn btn-default" data-dismiss="modal"> Close </a>
+				<button type="submit" class="btn btn-primary"> Send </button>
+				</div>
+		   </form>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

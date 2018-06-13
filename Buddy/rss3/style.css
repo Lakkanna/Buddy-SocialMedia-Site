@@ -1,0 +1,23 @@
+#outer {
+	border-top: transparent;
+	border-bottom: transparent;
+	border-left: transparent;
+	border-right: transparent;
+	height: 25px;
+	white-space: nowrap;
+}
+
+#inner {
+	border-top: 2px solid green;
+	border-bottom: 2px solid green;
+	border-left: transparent;
+	border-right: transparent;
+	height: 21px;
+	white-space: nowrap;
+}
+a {
+	color: lightblue;
+}
+a:hover{
+	color:red;
+}
