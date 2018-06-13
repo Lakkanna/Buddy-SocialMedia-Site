@@ -18,3 +18,4 @@ Instructions:
 4. You can clear the databse table values 
 5. Create gmail app id to use in password recovery
 6. If you get any error please check the path of the files used in the ajax call. 
+7. home.php is the main page to access this you need to login so it redirect to login page. give login credentials and login if you not registered create account and login.
